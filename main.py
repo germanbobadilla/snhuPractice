@@ -15,6 +15,7 @@ year_born = year - age
 
 print(f"Hello\033[1m {name}\033[0m! You were born in\033[1m {year_born - 1}\033[0m.")
 
+# This is part of the class at SNHU
 # Part B
 # I noticed that I could import the datetime library and it did it with ease.
 # When I called the datetime function, it was coloured.
